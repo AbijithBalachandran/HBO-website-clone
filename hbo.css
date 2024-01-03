@@ -1,0 +1,680 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+  }
+.condainer{
+    height: 150em;
+}
+.header{
+    width: 100%;
+    height: 4rem;
+    position: fixed;
+    z-index: 1;
+    background: #fff;
+}
+.logo{
+    width: 72px;
+    margin-top: 1em;
+    margin-left: 7em;
+    cursor: pointer;
+}
+.header-table{
+    margin-left: 12em;
+    margin-block: -36px;
+   
+}
+.table-element{
+    padding: 9px;
+    font: -webkit-small-control;
+    color: #a09393;
+    cursor: pointer;
+
+}
+.sign-in{
+    margin-left: 88em;
+    float: left;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+    font: -webkit-control;
+    cursor: pointer;
+    width: 62px;
+    height: 23px;
+    text-align: center;
+     cursor: pointer;
+
+}
+.sign-in:hover{
+    background: #cecbcb;
+}
+.singnfor-max{
+    width: 157px;
+    height: 41px;
+    margin: 2em;
+    margin-block: -3px;
+    background: blue;
+    border: hidden;
+    cursor: pointer;
+}
+.singnfor-max :hover{
+ background: #0816c0;
+
+}
+.SUF-text{
+    margin-block: 12px;
+    margin-right: 58px;
+    color: #fff;
+    cursor: pointer;
+}
+.max-logo{
+    width: 51px;
+    display: flex;
+    margin-block: -29px;
+    margin-left: 95px;
+    float: left;
+    cursor: pointer;
+}
+.pictur{
+    width: 100%;
+    height: 400px;
+    cursor: pointer;
+}
+.first-image{
+    margin-top: 71px;
+    width: 100%;
+    cursor: pointer;
+}
+.trailer-btn{
+    font-weight: 700;
+    margin-top: 39em;
+    position: absolute;
+    width: 172px;
+    height: 33px;
+    background: #2bb0d8;
+    margin-left: 7em;
+    border: transparent;
+    border-radius: 3px;
+    color: white;
+    font-family: revert-layer;
+    cursor: pointer;
+}
+.trailer-btn:hover{
+    background: #088db6;
+}
+.ion-icon {
+    visibility: hidden;
+    float: left;
+    width: 19px;
+    height: 16px;
+    cursor: pointer;
+}
+.findmore-btn{
+    position: absolute;
+    width: 121px;
+    margin-top: 39em;
+    height: 33px;
+    border-radius: 5px;
+    border: transparent;
+    background: #2bb0d8;
+    margin-left: 290px;
+    color: white;
+    font-family: revert-layer;
+    font-weight: 700;
+    cursor: pointer;
+}
+.findmore-btn:hover{
+    background: #088db6;
+}
+.image-para{
+    position: absolute;
+    color: white;
+    margin-top: 30em;
+    margin-left: 95px;
+    font-size: medium;
+    font-weight: 100;
+    font-family: system-ui;
+    cursor: pointer;
+}
+.image-head{
+    position: absolute;
+    color: white;
+    margin-top: 409px;
+    margin-left: 93px;
+    font-size: xxx-large;
+    font-family: system-ui;
+    font-weight: bold;
+    cursor: pointer;
+}
+.available{
+    position: absolute;
+    color: white;
+    margin-top: 29em;
+    margin-left: 97px;
+    font-family: system-ui;
+    font-weight: 100;
+    cursor: pointer;
+
+}
+.STL-head{
+    margin-top: 153px;
+    margin-left: 15em;
+    color: #4b4343;
+    font-family: sans-serif;
+    font-size: 37px;
+    font-weight: 700;
+}
+.center{
+    width: 100%;
+    height: 570px;
+    margin-top: 239px;
+}
+.card{
+    width: 18em;
+    height: 29em;
+    margin-left: 8em;
+    float: left;
+    margin-top: 2em;
+    cursor: pointer;
+
+}
+.hard-knocks{
+    width: 18em;
+    height: 11em;
+    margin-left: 0em;
+    cursor: pointer;
+}
+.card-dt{
+    font-family: sans-serif;
+    font-size: small;
+    color: gray;
+    cursor: pointer;
+}
+.card-head{
+    font-family: system-ui;
+    margin-block: -6px;
+    font-size: medium;
+    cursor: pointer;
+}
+.card-head:hover{
+  text-decoration: underline;
+}
+.card-para{
+    font-family: system-ui;
+    font-weight: 100;
+    margin-block: 11px;
+    cursor: pointer;
+}
+.find-out{
+    font-family: system-ui;
+    color: #2bb0d8;
+    text-decoration: none;
+    font-size: smaller;
+    font-weight: 700;
+    cursor: pointer;
+}
+.find-out:hover{
+    color: #088db6;
+}
+
+.card1{
+    width: 18em;
+    height: 29em;
+    margin-left: 2em;
+    float: left;
+    margin-top: 2em;
+    cursor: pointer;
+}
+.second-center{
+    width: 100%;
+    height: 218px;
+}
+.second-centerbar{
+    width: 100%;
+    height: 150px;
+    background: #eeecec;
+    position: absolute;
+}
+.centerbar-line{
+    margin-top: 49px;
+    margin-left: 162px;
+    margin-right: 133px;
+}
+.centerbar-head{
+    margin-block: -39px;
+    margin-left: 165px;
+    font-family: system-ui;
+    color: #514c4c;
+    font-size: 18px;
+    cursor: pointer;
+}
+.SCHEDULE{
+    margin-left: 74em;
+    color: #2bb0d8;
+    cursor: pointer;
+}
+.slash{
+    font-size: xxx-large;
+    font-weight: 100;
+    color: #a6a4a4;
+    margin-left: 158px;
+    margin-block: -10px;
+}
+.Barbie{
+    margin-left: 169px;
+    margin-block: -48px;
+    font-family: system-ui;
+    font-weight: 600;
+    cursor: pointer;
+}
+.time{
+    font-weight: 100;
+    color: dimgrey;
+    font-family: system-ui;
+    margin-left: 169px;
+    margin-top: 54px;
+    font-size: small;
+
+}
+.slash1{
+    font-size: xxx-large;
+    font-weight: 100;
+    color: #a6a4a4;
+    margin-left: 590px;
+    margin-block: -61px;
+}
+.Magic{
+    margin-left: 600px;
+    margin-block: 14px;
+    font-family: system-ui;
+    font-weight: 600;
+    cursor: pointer;
+}
+.time1{
+    font-weight: 100;
+    color: dimgrey;
+    font-family: system-ui;
+    margin-left: 601px;
+    margin-top: -7px;
+    font-size: small;
+}
+.slash2{
+    font-size: xxx-large;
+    font-weight: 100;
+    color: #a6a4a4;
+    margin-left: 1006px;
+    margin-block: -61px;
+}
+.MEG{
+    margin-left: 1017px;
+    margin-block: 14px;
+    font-family: system-ui;
+    font-weight: 600;
+    cursor: pointer;
+}
+.time2{
+    font-weight: 100;
+    color: dimgrey;
+    font-family: system-ui;
+    margin-left: 1018px;
+    margin-top: -7px;
+    font-size: small;
+}
+.dragon{
+    width: 750px;
+    margin-left: 113px;
+    cursor: pointer;
+}
+.play-btn{
+    margin-left: 134px;
+    position: absolute;
+    margin-top: 351px;
+    width: 52px;
+    height: 52px;
+    border-radius: 46px;
+    border-color: white;
+    background: transparent;
+    cursor: pointer;
+}
+.iconics{
+    color: white;
+    width: 48px;
+    height: 37px;
+    position: absolute;
+    float: left;
+    margin-block: -19px;
+    margin-left: -21px;
+    cursor: pointer;
+}
+.time-HG{
+    font-weight: 100;
+    color: white;
+    font-family: system-ui;
+    margin-left: 193px;
+    margin-top: 347px;
+    font-size: small;
+    position: absolute;
+}
+.Watch{
+    position: absolute;
+    color: #fff;
+    margin-left: 195px;
+    margin-top: 364px;
+    font-family: system-ui;
+    font-size: 31px;
+    cursor: pointer;
+}
+.S2-dragon{
+    font-family: system-ui;
+    font-size: small;
+    color: gray;  
+    cursor: pointer;
+}
+.dragon-text{
+    margin-left: 55em;
+    margin-block: -303px;
+}
+
+.HTD{
+    font-family: math;
+    font-size: 30px;
+    font-weight: 800;
+    margin-block: 2px;
+}
+.dragon-para{
+    font-family: system-ui;
+    font-weight: 100;
+    margin-block: 11px;
+    font-size: 17px;
+}
+em{
+    font-style: italic;
+}
+.video-space{
+    width: 100%;
+    height: 586px;
+}
+
+.calendar{
+    width: 100%;
+    height: 520px;
+    display: flex;
+}
+
+.mark{
+    margin-left: 16em;
+    margin-block: -90px;
+    float: left;
+    font-family: system-ui;
+    font-size: 38px;
+    cursor: pointer;
+}
+.second-card1{
+    margin-left: 154px;
+    height: 389px;
+    width: 273px;
+    cursor: pointer;
+}
+.time-bomb{
+    width: 17em;
+    height: 153px;
+    margin-left: 0em;
+    cursor: pointer;
+}
+.find-out1{
+    font-family: system-ui;
+    color: #2bb0d8;
+    text-decoration: none;
+    font-size: smaller;
+    font-weight: 700;
+    float: left;
+    padding-top: 76px;
+    cursor: pointer;
+
+}
+.find-out2{
+    font-family: system-ui;
+    color: #2bb0d8;
+    text-decoration: none;
+    font-size: smaller;
+    font-weight: 700;
+    float: left;
+    padding-top: 31px;
+
+    cursor: pointer;
+}
+.second-card2{
+    margin-left: 36px;
+    height: 430px;
+    width: 273px;
+    cursor: pointer;
+}
+.find-out3{
+    font-family: system-ui;
+    color: #2bb0d8;
+    text-decoration: none;
+    font-size: smaller;
+    font-weight: 700;
+    float: left;
+    padding-top: 54px;
+    cursor: pointer;
+}
+.Max{
+    width: 100%;
+    height: 455px;
+    background: #0816c0; 
+              
+}
+.max-pctr{
+    width: 272px;
+    margin-top: 27px;
+    margin-left: 116px;
+    border-radius: 13px;
+}
+.max-1pctr{
+    width: 272px;
+    margin-top: 27px;
+    margin-left: 21px;
+    border-radius: 13px;
+}
+.max-icon{
+    width: 265px;
+    margin-block: 104px;
+    float: right;
+    margin-right: 167px;
+}
+.MAX-Here{
+    margin-left: 23em;
+    margin-block: -245px;
+    float: left;
+    font-size: 48px;
+    color: #fff;
+    font-family: system-ui;
+    font-weight: 100;
+}
+.MAX-BTN{
+    float: right;
+    margin-block: -159px;
+    margin-right: 240px;
+    width: 129px;
+    height: 45px;
+    font-size: small;
+    font-weight: 600;
+    border: transparent;
+}
+.MAX-BTN:hover{
+    background: #20e8ef;
+}
+.COMING-soon{
+    width: 100%;
+    height: 585px;
+}
+.CSH{
+    width: 100%;
+    height: 130px;
+    text-align: center;
+}
+.CSH-text{
+    padding-top: 30px;
+    font-size: 38px;
+    font-family: sans-serif;
+    color: #514d4d;
+    font-weight: 700;
+}
+.comingsoon-card{
+    width: 100%;
+    height: 450px;
+    cursor: pointer;
+}
+.Movies{
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    float: right;
+    background: #f0eded;
+}
+.Watch-Movies{
+    padding-top: 30px;
+    font-size: 38px;
+    font-family: sans-serif;
+    color: #514d4d;
+    font-weight: 700;
+}
+.Movies-card{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.Movie-card1{
+    margin-left: 154px;
+    height: 196px;
+    width: 273px;
+    background: #fff;
+}
+.Movie-card2{
+    margin-left: 36px;
+    height: 196px;
+    width: 273px;
+    background: #fff;
+}
+.Movie-img{
+    width: 267px;
+    height: 153px;
+    margin-left: 0em;
+    border-radius: 3px;
+    margin-top: 2px;
+}
+
+.secondvideo-space{
+    width: 100%;
+    height: 485px;
+}
+.trailer-video{
+    margin-top: 28em;
+}
+.footer{
+    width: 100%;
+    height: 19em;
+}
+.footer-image{
+    width: 100%;
+    height: 535px;
+}
+.img-footer{
+    width: 100%;
+    height: 550px;
+}
+.HBO-footer{
+    position: absolute;
+    margin-block: -268px;
+    width: 100%;
+    height: 266px;
+    background: gray;
+}
+.foooter-maxicon{
+    width: 172px;
+    position: absolute;
+    margin-left: 43em;
+    margin-top: 63px;
+}
+.footer-Watch{
+    position: absolute;
+    color: white;
+    margin-left: 36em;
+    margin-top: 124px;
+    font-family: sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+}
+.footer-para{
+    position: absolute;
+    color: #fff;
+    margin-left: 31em;
+    margin-top: 159px;
+    font-size: large;
+    font-weight: 300;
+    font-family: system-ui;
+}
+.MAX-BTN2{
+    float: right;
+    margin-block: 208px;
+    margin-left: 695px;
+    width: 129px;
+    height: 35px;
+    font-size: small;
+    font-weight: 600;
+    background: #fff;
+    position: absolute;
+    border: transparent;
+    border-radius: 2px;
+}
+.MAX-BTN2:hover{
+  background-color: #20e8ef;
+}
+.footer-logo{
+    margin-left: 45em;
+    margin-top: 3em;
+}
+.footer-list{
+    display: flex;
+    margin-left: 350px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: system-ui;
+    cursor: pointer;
+}
+.footer-list:hover{
+    text-decoration: underline;
+}
+.footer-secondlist{
+    display: flex;
+    margin-left: 490px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 300;
+    font-family: system-ui;
+    cursor: pointer;
+}
+.footer-secondlist:hover{
+    text-decoration: underline;
+}
+.footer-para1{
+    display: flex;
+    margin-left: 591px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 300;
+    font-family: system-ui;
+}
+.footer-para2{
+    display: flex;
+    margin-left: 617px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 300;
+    font-family: system-ui;
+    margin-block: -8px;
+    float: left;
+}
